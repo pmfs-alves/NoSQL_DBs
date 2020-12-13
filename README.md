@@ -3,6 +3,8 @@
 
 
 ### Exploring NoSQL Databases  
+This is a dump of final files, copied from a private project. But credentials are stripped and some small changes were done for public consultation.  
+All the team collaborated on project.  
   
 ## 1st assignement- Using Neo4j and Redis in python  
   
