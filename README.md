@@ -37,5 +37,5 @@ We were able to secure top-spot ex-equo along another group, with a final grade 
 
 ### Notes
 
-The credentials for accessing the servers were kept in a separate file not available on github - but a template of credentials file is given.
+The credentials for accessing the servers were kept in a separate file not available on github - but a template of credentials file is given.  
 Since without credentials the original databases are not accessible anymore, thenotebooks are made available after execution.
